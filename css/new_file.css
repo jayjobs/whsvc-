@@ -1,0 +1,48 @@
+body{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+table{
+	margin: 0 auto;
+}
+.top{
+	background-image: url(../img/login_bg.jpg);
+	height: 87px;
+}
+.tr1l{
+	background-image: url(../img/logo_school.png);
+	width: 405px;
+	height: 60px;
+}
+.tr1r{
+	background-image: url(../img/logo_jw.png);
+	width: 167px;
+	height: 60px;
+}
+.tr2l{
+	background-image: url(../img/login_pic.png);
+	background-color: rgb(118, 168, 228);
+	width: 422px;
+	height: 265px;
+}
+.tr2r{
+	background-image: url(../img/login_right.jpg);
+	width: 462px;
+	height: 340px;
+}
+.tr2a{
+	margin: 0 auto;
+	padding: 100px 90px 0 ;
+}
+.tr2r1{
+	float: left;
+	background-image: url(../img/login_ico.gif);
+	width: 30px;
+	height: 90px;
+}
+.tr2rr{
+	float: left;
+}
+p{
+	text-align: center;
+}
